@@ -20,52 +20,52 @@ const links = [
   {
     icon: <FiBook className='text-zinc-300' />,
     title: 'Blog',
-    url: 'https://honghong.me/blog'
+    url: 'https://hrideshsapkota.com.np/blog'
   },
   {
     icon: <SiYoutube className='text-zinc-300' />,
     title: 'YouTube',
-    url: 'https://www.youtube.com/@tszhong0411'
+    url: 'https://www.youtube.com/@hridessapkota'
   },
   {
     icon: <SiFacebook className='text-zinc-300' />,
     title: 'Facebook',
-    url: 'https://www.facebook.com/tszhong0411/'
+    url: 'https://www.facebook.com/hridesh/'
   },
   {
     icon: <SiSteam className='text-zinc-300' />,
-    title: 'Steam',
-    url: 'https://steamcommunity.com/profiles/76561199157324617/'
+    title: 'Upwork',
+    url: 'https://www.upwork.com/freelancers/~0159ce828ecbf75c08'
   },
   {
     icon: <SiInstagram className='text-zinc-300' />,
     title: 'Instagram',
-    url: 'https://instagram.com/tszhong0411/'
+    url: 'https://www.instagram.com/hridessapkota/'
   },
   {
     icon: <SiGithub className='text-zinc-300' />,
     title: 'GitHub',
-    url: 'https://github.com/tszhong0411'
+    url: 'https://github.com/hridesh94'
   },
   {
     icon: <SiDiscord className='text-zinc-300' />,
     title: 'Discord',
-    url: 'https://discordapp.com/users/886269624608522240'
+    url: 'https://discordapp.com/'
   },
   {
     icon: <SiX className='text-zinc-300' />,
     title: 'X',
-    url: 'https://x.com/tszhong0411'
+    url: 'https://x.com/'
   },
   {
     icon: <SiStackoverflow className='text-zinc-300' />,
     title: 'Stack overflow',
-    url: 'https://stackoverflow.com/users/15166428'
+    url: 'https://stackoverflow.com'
   },
   {
     icon: <SiDevdotto className='text-zinc-300' />,
     title: 'Dev.to',
-    url: 'https://dev.to/tszhong0411'
+    url: 'https://dev.to/'
   }
 ]
 
@@ -82,8 +82,8 @@ const HomePage = () => {
           className='rounded-full'
           priority
         />
-        <h1 className='text-xl font-semibold'>Nelson</h1>
-        <p className='text-[#a1a1a1]'>Full Stack Engineer</p>
+        <h1 className='text-xl font-semibold'>Hridesh</h1>
+        <p className='text-[#a1a1a1]'>Freelance Podcast Producer</p>
       </div>
       <PrimaryLinks />
       <div className='flex flex-col gap-4 py-3'>
